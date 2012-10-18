@@ -1,4 +1,12 @@
+"""
+Copyright (c) 2012, Mark Harviston
+All rights reserved.
+Redistribution allowed, see LICENSE.txt for details
 
+Noodling to try to get DLL Loading to work.
+
+seems to work, but no idea how to call (what arugments, initialization procedure etc.) anything, as nothing is documented.
+"""
 #from win32gui import MessageBox
 
 #MessageBox(0, "Foobar", "Barfoo", 0)

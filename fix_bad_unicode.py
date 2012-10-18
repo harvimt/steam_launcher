@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+"""
+code taken from: http://code.activestate.com/recipes/578243-repair-common-unicode-mistakes-after-theyve-been-m/
+see: http://blog.lumino.so/2012/08/20/fix-unicode-mistakes-with-python/ for full explanation
+Author: Rob Speer
+LICENSE: MIT
+"""
 
 import unicodedata
 

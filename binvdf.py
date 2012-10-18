@@ -1,8 +1,9 @@
 #!/usr/bin/env python2
 #-*- coding=utf-8 -*-
 """
-(C) 2012 Mark Harviston
-
+Copyright (c) 2012, Mark Harviston
+All rights reserved.
+Redistribution allowed, see LICENSE.txt for details
 Binary VDF (Valve Data Format) Parser
 
 Probably only applies to appcache/appinfo.vdf

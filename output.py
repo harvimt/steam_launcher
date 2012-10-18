@@ -1,8 +1,9 @@
 #!/usr/bin/env python2
 #-*- coding=utf-8 -*-
 """
-(C) 2012 Mark Harviston All Rights Reserved
-
+Copyright (c) 2012, Mark Harviston
+All rights reserved.
+Redistribution allowed, see LICENSE.txt for details
 Uses steam_api.py to generate an HTML file with links to run games
 """
 from __future__ import unicode_literals

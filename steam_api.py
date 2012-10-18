@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 """
-(C) 2012 Mark Harviston All Rights Reserved
+Copyright (c) 2012, Mark Harviston
+All rights reserved.
+Redistribution allowed, see LICENSE.txt for details
 
 API for Steam information stored in windows registry and config.vdf
 

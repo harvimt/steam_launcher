@@ -1,7 +1,9 @@
 #!/usr/bin/env python2
 #-*- coding=utf-8 -*-
 """
-(C) 2012 Mark Harviston All Rights Reserved
+Copyright (c) 2012, Mark Harviston
+All rights reserved.
+Redistribution allowed, see LICENSE.txt for details
 
 Valve Data Format (VDF) plain text version parser
 
@@ -74,7 +76,7 @@ class VDF(object):
 					
 					if len(line_s) == 1:
 						found_single = True
-						prev = line_s[0]						
+						prev = line_s[0]
 					else:
 						name, value = line_s
 						self.proc_pair(name, value)
